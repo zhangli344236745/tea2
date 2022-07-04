@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d5c89"],{7082:function(e){e.exports=JSON.parse('{"name":"文字","type":"text","schema":{"options":{"title":"label名称","keyName":"字段名称","formatter":{"type":"text","params":""}}}}')}}]);
+//# sourceMappingURL=chunk-2d0d5c89.43df363c.js.map
