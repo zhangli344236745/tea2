@@ -2,6 +2,7 @@
   "name": "tea2",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://zhangli344236745/github.io/tea2",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -28,7 +29,6 @@
     "babel-preset-env": "^1.7.0",
     "babelon": "^1.0.5",
     "circular-json": "^0.5.9",
-    "copy-webpack-plugin": "^11.0.0",
     "cypress": "^8.6.0",
     "eslint": "^6.7.2",
     "eslint-plugin-prettier": "^3.1.3",
