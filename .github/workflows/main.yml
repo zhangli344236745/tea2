@@ -8,8 +8,8 @@ jobs:
     - name: checkout
       uses: actions/checkout@v3 # 将代码拷贝到虚机中
     
-    -name: Install and build
-      run: | 
+    - name: Install and build
+      run: |
         npm install
         npm run build
 
